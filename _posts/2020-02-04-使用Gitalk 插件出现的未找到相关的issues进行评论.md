@@ -19,3 +19,5 @@ tags:
 ![1580797021676](https://zjhchester.github.io/img/Gitalk3.png)
 
 这个问题就是在申请github application的时候，里面主页地址和回调函数地址一定要精确到大小写，还有精确到https和http，最好就直接复制主页地址，这个解决了你的application使用者就不会为0了
+
+最后附上一个Github Application<a href="https://github.com/settings/applications/new ">申请地址</a>

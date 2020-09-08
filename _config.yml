@@ -1,18 +1,18 @@
 ﻿# Site settings
-title: Chester Blog
-SEOTitle: Chester | 张小皮
+title: William Blog
+SEOTitle: William | 良辰美景
 header-img: img/home-bg-o.jpg
-email: zjhChester@gmail.com
+email: wl864562716@gmail.com
 description:  A lovely javaer"
-keyword: "chester,tfswufe,张小皮 "
-url: "http://zjhChester.github.io"          # your host, for absolute URL
+keyword: ""
+url: "http://shaonaoteam.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/zjhChester/zjhChester.github.io.git" # you code repository
+github_repo: "https://github.com/shaonaoteam/shaonaoteam.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "ppnn13% dkstFeb.1st "
-sidebar-avatar: /img/IMG_20190725_152317.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: ""
+sidebar-avatar: /img/wallhaven-763944.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/IMG_20190725_152317.jpg      # use absolute URL, seeing it'
 RSS: false
 # weibo_username:     
 zhihu_username:     zhang-xiao-pi-99
-github_username:    zjhChester
+github_username:    shaonaoteam
 
 
 
@@ -58,11 +58,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 23d4dbea600633733315                            #生成的clientID
-  clientSecret: cf19db0ed824f8da0b727afe3159203d7551cf8b    #生成的clientSecret
-  repo: zjhChester.github.io    #仓库名称
-  owner: zjhChester    #github用户名
-  admin: zjhChester
+  clientID: 251b7fda6e70f059cf01                            #生成的clientID
+  clientSecret: 986ffbad76e9f7f6a388ca942fa43309c73e102a    #生成的clientSecret
+  repo: shaonaoteam.github.io    #仓库名称
+  owner: shaonaoteam    #github用户名
+  admin: shaonaoteam
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
